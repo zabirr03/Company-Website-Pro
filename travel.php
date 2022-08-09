@@ -353,7 +353,7 @@
 <!-- page-wrapper end -->
 
 <!-- JavaScript files placed at the end of the document so the pages load faster
-================================================== -->
+=================================================== -->
 <!-- Jquery and Bootstap core js files -->
 <script type="text/javascript" src="style/js/jquery.js"></script>
 <script type="text/javascript" src="style/js/bootstrap.min.js"></script>
